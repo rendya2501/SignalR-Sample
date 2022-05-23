@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2tO5jUwljfEXduaQ6xlGY0vw8CtUBWMqfR2ngS5ziNr4OtnGGrTb5xc1TzfvTvMjIDp0fs1n0mEHZbAzPKxX4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rendy\\Desktop\\SignalRSample\\SignalRServer\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rendy\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rendy\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.1\\swashbuckle.aspnetcore.swagger.6.3.1.nupkg.sha512",
+    "C:\\Users\\rendy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.1\\swashbuckle.aspnetcore.swaggergen.6.3.1.nupkg.sha512",
+    "C:\\Users\\rendy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.1\\swashbuckle.aspnetcore.swaggerui.6.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
