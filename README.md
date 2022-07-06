@@ -26,6 +26,14 @@
 - .Net6  
   - ConsolApp  
   - ASP.NET Core(空)  
+  
+### 実行手順
+
+- サーバー側  
+  - SignalRServerのソリューションを立ち上げて実行  
+
+- クライアント側  
+  - SignalRClientソリューションを2つ立ち上げてそれぞれで実行  
 
 ---
 
