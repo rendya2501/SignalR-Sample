@@ -1,4 +1,4 @@
-# SignalRSample
+# SignalR-Sample
 
 ---
 
