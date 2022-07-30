@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "I1OHDzBRH8GqQWgXzqcTRj4CcuamBver89mE5RyZz20=",
+  "Hash": "v8+4uK+zA5uL0K1+kXY/PSifYZpGFHBLzNdcSftERqY=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebApplication1\\wwwroot",
       "Source": "WebApplication1",
-      "ContentRoot": "C:\\Users\\rendy\\Desktop\\新しいフォルダー\\SignalRSample\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rendy\\Desktop\\SignalRSample\\SignalRServer\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\rendy\\Desktop\\新しいフォルダー\\SignalRSample\\WebApplication1\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "Identity": "C:\\Users\\rendy\\Desktop\\SignalRSample\\SignalRServer\\WebApplication1\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rendy\\Desktop\\新しいフォルダー\\SignalRSample\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rendy\\Desktop\\SignalRSample\\SignalRServer\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/signalr/dist/browser/signalr.js",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr.js"
     },
     {
-      "Identity": "C:\\Users\\rendy\\Desktop\\新しいフォルダー\\SignalRSample\\WebApplication1\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "Identity": "C:\\Users\\rendy\\Desktop\\SignalRSample\\SignalRServer\\WebApplication1\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\rendy\\Desktop\\新しいフォルダー\\SignalRSample\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rendy\\Desktop\\SignalRSample\\SignalRServer\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/signalr/dist/browser/signalr.min.js",
       "AssetKind": "All",
